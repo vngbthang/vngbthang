@@ -71,11 +71,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="185" align="center" src="https://github-readme-stats.vercel.app/api?username=vngbthang&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&bg_color=0B1220&title_color=55D6BE&icon_color=F5B971&text_color=A9BBC7&border_color=203542" alt="GitHub activity statistics for vngbthang" />
+    <img height="185" align="center" src="https://github-stats-extended.vercel.app/api?username=vngbthang&show_icons=true&include_all_commits=true&hide_rank=true&theme=github_dark&bg_color=0B1220&title_color=55D6BE&icon_color=F5B971&text_color=A9BBC7&border_color=203542" alt="GitHub activity statistics for vngbthang" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="185" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vngbthang&layout=compact&langs_count=6&card_width=320&theme=github_dark&bg_color=0B1220&title_color=55D6BE&text_color=A9BBC7&border_color=203542" alt="Most used languages in public repositories" />
+    <img height="185" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vngbthang&layout=compact&langs_count=6&card_width=320&theme=github_dark&bg_color=0B1220&title_color=55D6BE&text_color=A9BBC7&border_color=203542" alt="Most used languages in public repositories" />
   </a>
 </p>
 
